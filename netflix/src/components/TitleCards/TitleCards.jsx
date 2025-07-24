@@ -3,7 +3,7 @@ import './TitleCards.css'
 
 const TitleCards = () => {
   return (
-    <div>TitleCards</div>
+    <div className='titlecards'>TitleCards</div>
   )
 }
 
